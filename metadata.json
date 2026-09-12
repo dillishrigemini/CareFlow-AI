@@ -1,0 +1,6 @@
+{
+  "name": "AI CareFlow Kiosk",
+  "description": "Agentic Multilingual Government Hospital Patient Care Platform & End-to-End Careflow",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
